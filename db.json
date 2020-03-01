@@ -1,431 +1,431 @@
 [
-  {
-    "userID": 1,
-    "userName": "Nguyen The Luc",
-    "roleID": 1,
-    "loginName": "thelucvn",
-    "loginPassword": "123                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 2,
-    "userName": "NTLuc",
-    "roleID": 3,
-    "loginName": "demo1",
-    "loginPassword": "123                 ",
-    "birthDate": "2020-02-12T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "                    ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": " ",
-    "userPhoto": " ",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 3,
-    "userName": "Nguyen The Luc",
-    "roleID": 3,
-    "loginName": "thelucvn2",
-    "loginPassword": "123                 ",
-    "birthDate": "2020-02-14T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "1234324             ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": "Dong Anh, Ha Noi",
-    "userPhoto": "ddsdf",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 4,
-    "userName": "luc nguyen",
-    "roleID": 1,
-    "loginName": "abc",
-    "loginPassword": "xyz                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 5,
-    "userName": "123",
-    "roleID": 1,
-    "loginName": "abc123",
-    "loginPassword": "123                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 6,
-    "userName": "abc",
-    "roleID": 1,
-    "loginName": "ad",
-    "loginPassword": "123                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 7,
-    "userName": "luc nguyen",
-    "roleID": 1,
-    "loginName": "abc1234",
-    "loginPassword": "xyz                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 8,
-    "userName": "luc nguyen",
-    "roleID": 1,
-    "loginName": "abcsdf",
-    "loginPassword": "xyz                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 9,
-    "userName": "luc nguyen",
-    "roleID": 1,
-    "loginName": "dfg",
-    "loginPassword": "dfg                 ",
-    "birthDate": "2015-01-02T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "                    ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": " ",
-    "userPhoto": "/Photos/user2.png",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 10,
-    "userName": "fsdf",
-    "roleID": 1,
-    "loginName": "dsfsdfsdf",
-    "loginPassword": "ssd                 ",
-    "birthDate": "2020-02-14T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "1234324             ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": "Dong Anh, Ha Noi",
-    "userPhoto": "/Photos/user3.png",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 11,
-    "userName": "luc nguyen",
-    "roleID": 3,
-    "loginName": "abcd",
-    "loginPassword": "123                 ",
-    "birthDate": "2020-02-12T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "                    ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": " ",
-    "userPhoto": " ",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 12,
-    "userName": "luc nguyen",
-    "roleID": 1,
-    "loginName": "abc12345",
-    "loginPassword": "xyz                 ",
-    "birthDate": null,
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": null,
-    "emailAddress": "thelucqn@gmail.com",
-    "address": null,
-    "userPhoto": null,
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  },
-  {
-    "userID": 13,
-    "userName": "demo",
-    "roleID": 1,
-    "loginName": "demo",
-    "loginPassword": "123                 ",
-    "birthDate": "2020-02-24T00:00:00",
-    "phoneNumber": "0974297876          ",
-    "userPrivateNumber": "                    ",
-    "emailAddress": "thelucqn@gmail.com",
-    "address": " ",
-    "userPhoto": " ",
-    "userStatus": 1,
-    "measurementDatas": [
-      
-    ],
-    "measurementLocations": [
-      
-    ],
-    "messages": [
-      
-    ],
-    "messages1": [
-      
-    ],
-    "photos": [
-      
-    ],
-    "role": null,
-    "warningSettings": [
-      
-    ]
-  }
+   {
+      "userID":1,
+      "userName":"Nguyen The Luc",
+      "roleID":1,
+      "loginName":"thelucvn",
+      "loginPassword":"123                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":2,
+      "userName":"NTLuc",
+      "roleID":3,
+      "loginName":"demo1",
+      "loginPassword":"123                 ",
+      "birthDate":"2020-02-12T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"                    ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":" ",
+      "userPhoto":" ",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":3,
+      "userName":"Nguyen The Luc",
+      "roleID":3,
+      "loginName":"thelucvn2",
+      "loginPassword":"123                 ",
+      "birthDate":"2020-02-14T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"1234324             ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":"Dong Anh, Ha Noi",
+      "userPhoto":"ddsdf",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":4,
+      "userName":"luc nguyen",
+      "roleID":1,
+      "loginName":"abc",
+      "loginPassword":"xyz                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":5,
+      "userName":"123",
+      "roleID":1,
+      "loginName":"abc123",
+      "loginPassword":"123                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":6,
+      "userName":"abc",
+      "roleID":1,
+      "loginName":"ad",
+      "loginPassword":"123                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":7,
+      "userName":"luc nguyen",
+      "roleID":1,
+      "loginName":"abc1234",
+      "loginPassword":"xyz                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":8,
+      "userName":"luc nguyen",
+      "roleID":1,
+      "loginName":"abcsdf",
+      "loginPassword":"xyz                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":9,
+      "userName":"luc nguyen",
+      "roleID":1,
+      "loginName":"dfg",
+      "loginPassword":"dfg                 ",
+      "birthDate":"2015-01-02T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"                    ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":" ",
+      "userPhoto":"/Photos/user2.png",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":10,
+      "userName":"fsdf",
+      "roleID":1,
+      "loginName":"dsfsdfsdf",
+      "loginPassword":"ssd                 ",
+      "birthDate":"2020-02-14T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"1234324             ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":"Dong Anh, Ha Noi",
+      "userPhoto":"/Photos/user3.png",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":11,
+      "userName":"luc nguyen",
+      "roleID":3,
+      "loginName":"abcd",
+      "loginPassword":"123                 ",
+      "birthDate":"2020-02-12T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"                    ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":" ",
+      "userPhoto":" ",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":12,
+      "userName":"luc nguyen",
+      "roleID":1,
+      "loginName":"abc12345",
+      "loginPassword":"xyz                 ",
+      "birthDate":null,
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":null,
+      "emailAddress":"thelucqn@gmail.com",
+      "address":null,
+      "userPhoto":null,
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   },
+   {
+      "userID":13,
+      "userName":"demo",
+      "roleID":1,
+      "loginName":"demo",
+      "loginPassword":"123                 ",
+      "birthDate":"2020-02-24T00:00:00",
+      "phoneNumber":"0974297876          ",
+      "userPrivateNumber":"                    ",
+      "emailAddress":"thelucqn@gmail.com",
+      "address":" ",
+      "userPhoto":" ",
+      "userStatus":1,
+      "measurementDatas":[
+
+      ],
+      "measurementLocations":[
+
+      ],
+      "messages":[
+
+      ],
+      "messages1":[
+
+      ],
+      "photos":[
+
+      ],
+      "role":null,
+      "warningSettings":[
+
+      ]
+   }
 ]
